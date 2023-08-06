@@ -57,7 +57,7 @@ print(list_of_nums)
 ~~~
 
 ## Output:
-
+![pic1](/Screenshot%202023-08-06%20095511.png)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
